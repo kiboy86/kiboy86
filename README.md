@@ -1,5 +1,5 @@
 Created by :
-Jenova (kiboy)
+kiboy (kiboy)
 ------- List Feature --------
 -- Misc :
 [1] Profile Checker
